@@ -1,9 +1,5 @@
 class Figure:
     def add_figure(self, name):
-        if isinstance(name, Figure):
-            return self.area + name.area
-        else:
-            try:
-                raise ValueError
-            except ValueError:
-                return
+        if not isinstance(name, Figure):
+            raise ValueError
+        return self.area + name.area
