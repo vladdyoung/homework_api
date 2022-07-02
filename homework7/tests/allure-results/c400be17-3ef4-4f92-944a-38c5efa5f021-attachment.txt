@@ -1,0 +1,6 @@
+[32mINFO    [0m test_name_product:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_name_product:base_page.py:13 Open URL: http://192.168.0.190:8081/macbook
+[32mINFO    [0m test_name_product:card_product_page.py:36 Find element (h1) by using method (css selector)
+[32mINFO    [0m test_name_product:base_page.py:24 Element (h1) is present on the page
+[32mINFO    [0m test_name_product:conftest.py:84 Stop driver remote 
+==============================================================================================================

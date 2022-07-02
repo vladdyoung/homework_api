@@ -1,0 +1,5 @@
+[32mINFO    [0m test_personal_details_form[input-firstname]:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_personal_details_form[input-firstname]:base_page.py:13 Open URL: http://192.168.0.190:8081//index.php?route=account/register
+[32mINFO    [0m test_personal_details_form[input-firstname]:registration_user_page.py:92 Find  #input-firstname by using css selector
+[32mINFO    [0m test_personal_details_form[input-firstname]:conftest.py:84 Stop driver remote 
+==============================================================================================================

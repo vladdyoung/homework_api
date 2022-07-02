@@ -1,0 +1,9 @@
+[32mINFO    [0m test_registration_new_user:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_registration_new_user:base_page.py:13 Open URL: http://192.168.0.190:8081/
+[32mINFO    [0m test_registration_new_user:base_page.py:24 Element (#top-links .dropdown) is present on the page
+[32mINFO    [0m test_registration_new_user:registration_user_page.py:10 Click on dropdown for registration
+[32mINFO    [0m test_registration_new_user:base_page.py:24 Element (.dropdown-menu.dropdown-menu-right a) is present on the page
+[32mINFO    [0m test_registration_new_user:registration_user_page.py:13 Click on button for registration
+[31m[1mERROR   [0m test_registration_new_user:base_page.py:31 Element (#input-firstname) is not found
+[32mINFO    [0m test_registration_new_user:conftest.py:84 Stop driver remote 
+==============================================================================================================

@@ -1,0 +1,6 @@
+[32mINFO    [0m test_username_field:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_username_field:base_page.py:13 Open URL: http://192.168.0.190:8081/admin
+[32mINFO    [0m test_username_field:admin_page.py:21 Find element (#input-username) by using (css selector)
+[32mINFO    [0m test_username_field:base_page.py:24 Element (#input-username) is present on the page
+[32mINFO    [0m test_username_field:conftest.py:84 Stop driver remote 
+==============================================================================================================

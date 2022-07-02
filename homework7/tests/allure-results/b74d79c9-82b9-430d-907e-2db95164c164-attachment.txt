@@ -1,0 +1,6 @@
+[32mINFO    [0m test_found_opencart_signature:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_found_opencart_signature:base_page.py:13 Open URL: http://192.168.0.190:8081/
+[32mINFO    [0m test_found_opencart_signature:main_page.py:12 Find element footer .container p a by using css selector
+[32mINFO    [0m test_found_opencart_signature:base_page.py:24 Element (footer .container p a) is present on the page
+[32mINFO    [0m test_found_opencart_signature:conftest.py:84 Stop driver remote 
+==============================================================================================================

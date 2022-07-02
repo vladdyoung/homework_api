@@ -1,0 +1,5 @@
+[32mINFO    [0m test_personal_details_form[input-telephone]:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_personal_details_form[input-telephone]:base_page.py:13 Open URL: http://192.168.0.190:8081//index.php?route=account/register
+[32mINFO    [0m test_personal_details_form[input-telephone]:registration_user_page.py:92 Find  #input-telephone by using css selector
+[32mINFO    [0m test_personal_details_form[input-telephone]:conftest.py:84 Stop driver remote 
+==============================================================================================================
