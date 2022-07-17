@@ -1,0 +1,6 @@
+[32mINFO    [0m test_references[Reviews]:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_references[Reviews]:base_page.py:13 Open URL: http://192.168.0.190:8081/macbook
+[32mINFO    [0m test_references[Reviews]:card_product_page.py:23 Find element .nav.nav-tabs by using method css selector
+[32mINFO    [0m test_references[Reviews]:base_page.py:24 Element (.nav.nav-tabs) is present on the page
+[32mINFO    [0m test_references[Reviews]:conftest.py:84 Stop driver remote 
+==============================================================================================================

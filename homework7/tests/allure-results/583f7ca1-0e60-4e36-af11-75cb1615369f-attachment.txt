@@ -1,0 +1,5 @@
+[32mINFO    [0m test_btns_subscribe:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_btns_subscribe:base_page.py:13 Open URL: http://192.168.0.190:8081//index.php?route=account/register
+[32mINFO    [0m test_btns_subscribe:registration_user_page.py:59 Find element
+[32mINFO    [0m test_btns_subscribe:conftest.py:84 Stop driver remote 
+==============================================================================================================

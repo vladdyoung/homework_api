@@ -1,0 +1,11 @@
+[32mINFO    [0m test_currency_toggle:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_currency_toggle:base_page.py:13 Open URL: http://192.168.0.190:8081/
+[32mINFO    [0m test_currency_toggle:currency.py:11 Find element ('css selector', '.btn-link.dropdown-toggle strong')
+[32mINFO    [0m test_currency_toggle:base_page.py:24 Element (.btn-link.dropdown-toggle strong) is present on the page
+[32mINFO    [0m test_currency_toggle:currency.py:14 Find element ('css selector', '.btn-link.dropdown-toggle')
+[32mINFO    [0m test_currency_toggle:base_page.py:24 Element (.btn-link.dropdown-toggle) is present on the page
+[32mINFO    [0m test_currency_toggle:currency.py:17 Find element ('css selector', '[name="EUR"]')
+[31m[1mERROR   [0m test_currency_toggle:base_page.py:31 Element ([name="EUR"]) is not found
+[31m[1mERROR   [0m test_currency_toggle:currency.py:25 Currency is not change!
+[32mINFO    [0m test_currency_toggle:conftest.py:84 Stop driver remote 
+==============================================================================================================

@@ -1,0 +1,6 @@
+[32mINFO    [0m test_macbook_air_poster_is_visibility:conftest.py:78 Start driver remote with chrome browser
+[32mINFO    [0m test_macbook_air_poster_is_visibility:base_page.py:13 Open URL: http://192.168.0.190:8081/
+[32mINFO    [0m test_macbook_air_poster_is_visibility:main_page.py:61 Wait for .swiper-slide-active [alt="MacBookAir"] to appear
+[31m[1mERROR   [0m test_macbook_air_poster_is_visibility:main_page.py:66 MackBookAir poster is not visible
+[32mINFO    [0m test_macbook_air_poster_is_visibility:conftest.py:84 Stop driver remote 
+==============================================================================================================
