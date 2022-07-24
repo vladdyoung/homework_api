@@ -1,6 +1,0 @@
-[32mINFO    [0m test_iphone_poster_is_visibility:conftest.py:78 Start driver remote with chrome browser
-[32mINFO    [0m test_iphone_poster_is_visibility:base_page.py:13 Open URL: http://192.168.0.190:8081/
-[32mINFO    [0m test_iphone_poster_is_visibility:main_page.py:72 Wait for .swiper-slide-active [alt="iPhone 6"] to appear
-[31m[1mERROR   [0m test_iphone_poster_is_visibility:main_page.py:77 Iphone6 poster is not visible
-[32mINFO    [0m test_iphone_poster_is_visibility:conftest.py:84 Stop driver remote 
-==============================================================================================================

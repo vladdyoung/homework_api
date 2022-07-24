@@ -1,6 +1,0 @@
-[32mINFO    [0m test_swiper_wrapper_products:conftest.py:78 Start driver remote with chrome browser
-[32mINFO    [0m test_swiper_wrapper_products:base_page.py:13 Open URL: http://192.168.0.190:8081/
-[32mINFO    [0m test_swiper_wrapper_products:main_page.py:46 Find element #slideshow0 .swiper-wrapper by using css selector
-[32mINFO    [0m test_swiper_wrapper_products:base_page.py:24 Element (#slideshow0 .swiper-wrapper) is present on the page
-[32mINFO    [0m test_swiper_wrapper_products:conftest.py:84 Stop driver remote 
-==============================================================================================================

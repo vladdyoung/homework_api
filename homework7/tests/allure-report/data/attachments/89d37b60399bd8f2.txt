@@ -1,5 +1,0 @@
-INFO     test_description_actions:conftest.py:78 Start driver remote with chrome browser
-INFO     test_description_actions:base_page.py:13 Open URL: http://localhost:8081/admin
-INFO     test_description_actions:base_page.py:17 URL http://localhost:8081/admin is not found
-INFO     test_description_actions:conftest.py:84 Stop driver remote 
-==============================================================================================================

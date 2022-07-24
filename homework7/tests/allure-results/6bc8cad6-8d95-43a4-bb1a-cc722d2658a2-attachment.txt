@@ -1,6 +1,0 @@
-[32mINFO    [0m test_btn_continue:conftest.py:78 Start driver remote with chrome browser
-[32mINFO    [0m test_btn_continue:base_page.py:13 Open URL: http://192.168.0.190:8081//index.php?route=account/register
-[32mINFO    [0m test_btn_continue:registration_user_page.py:81 Find [type=submit] by using css selector
-[32mINFO    [0m test_btn_continue:base_page.py:24 Element ([type=submit]) is present on the page
-[32mINFO    [0m test_btn_continue:conftest.py:84 Stop driver remote 
-==============================================================================================================

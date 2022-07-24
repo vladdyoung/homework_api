@@ -1,6 +1,0 @@
-[32mINFO    [0m test_search_line:conftest.py:78 Start driver remote with chrome browser
-[32mINFO    [0m test_search_line:base_page.py:13 Open URL: http://192.168.0.190:8081/
-[32mINFO    [0m test_search_line:main_page.py:24 Find element search by using id
-[32mINFO    [0m test_search_line:base_page.py:24 Element (search) is present on the page
-[32mINFO    [0m test_search_line:conftest.py:84 Stop driver remote 
-==============================================================================================================

@@ -1,6 +1,0 @@
-[32mINFO    [0m test_privacy_policy_checkpoint:conftest.py:78 Start driver remote with chrome browser
-[32mINFO    [0m test_privacy_policy_checkpoint:base_page.py:13 Open URL: http://192.168.0.190:8081//index.php?route=account/register
-[32mINFO    [0m test_privacy_policy_checkpoint:registration_user_page.py:70 Find [type=checkbox] by using css selector
-[32mINFO    [0m test_privacy_policy_checkpoint:base_page.py:24 Element ([type=checkbox]) is present on the page
-[32mINFO    [0m test_privacy_policy_checkpoint:conftest.py:84 Stop driver remote 
-==============================================================================================================

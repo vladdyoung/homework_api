@@ -1,6 +1,0 @@
-[32mINFO    [0m test_bucket:conftest.py:78 Start driver remote with chrome browser
-[32mINFO    [0m test_bucket:base_page.py:13 Open URL: http://192.168.0.190:8081/
-[32mINFO    [0m test_bucket:main_page.py:35 Find element cart by using id
-[32mINFO    [0m test_bucket:base_page.py:24 Element (cart) is present on the page
-[32mINFO    [0m test_bucket:conftest.py:84 Stop driver remote 
-==============================================================================================================

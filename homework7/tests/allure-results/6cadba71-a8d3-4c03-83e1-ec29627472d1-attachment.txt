@@ -1,5 +1,0 @@
-[32mINFO    [0m test_description_product:conftest.py:78 Start driver remote with chrome browser
-[32mINFO    [0m test_description_product:base_page.py:13 Open URL: http://192.168.0.190:8081/macbook
-[32mINFO    [0m test_description_product:card_product_page.py:47 Find element (('css selector', '.col-sm-4 .list-unstyled'))
-[32mINFO    [0m test_description_product:conftest.py:84 Stop driver remote 
-==============================================================================================================

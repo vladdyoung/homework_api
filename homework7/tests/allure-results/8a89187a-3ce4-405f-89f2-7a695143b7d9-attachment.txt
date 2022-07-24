@@ -1,6 +1,0 @@
-[32mINFO    [0m test_all_catalogs[Laptops & Notebooks]:conftest.py:78 Start driver remote with chrome browser
-[32mINFO    [0m test_all_catalogs[Laptops & Notebooks]:base_page.py:13 Open URL: http://192.168.0.190:8081//desktops
-[32mINFO    [0m test_all_catalogs[Laptops & Notebooks]:catalog_page.py:12 Find element Laptops & Notebooks
-[32mINFO    [0m test_all_catalogs[Laptops & Notebooks]:base_page.py:24 Element (#column-left .list-group) is present on the page
-[32mINFO    [0m test_all_catalogs[Laptops & Notebooks]:conftest.py:84 Stop driver remote 
-==============================================================================================================
