@@ -1,0 +1,35 @@
+Фикстура не может принимать значения, она их только возвращает:
+
+Неправильно:
+@pytest.fixture
+def request_resource(принятое_значение):
+    return requests.get(принятое_значение)
+	
+Правильно:
+@pytest.fixture
+def request_resource():
+    return requests.get()
+============================================================================================================
+Для того чтобы из conftest импортировать импортированные библиотеки, их нужно retern специальными функциями:
+import requests
+import pytest
+
+
+@pytest.fixture
+def return_requests_modul():
+    return requests
+	
+@pytest.fixture
+def return_pytest_modul():
+    return pytest
+============================================================================================================
+Проблема различия в переборе параметров
+Плюсик ебаный!!!:
+Основа:
+@pytest.mark.by_state
+@pytest.mark.parametrize('state', ['ohio', 'new_york', 'new%20mexico'])
+def test_browse_by_state(request_resource, state):
+    response = request_resource.get('https://api.openbrewerydb.org/breweries?by_state=' + state)
+    assert len(response.json()) > 0, 'City is not found'
+Проблема в плюсе в response = request_resource.get('https://api.openbrewerydb.org/breweries?by_state=' + state).
+Если вместо "+" стоит запятая response = request_resource.get('https://api.openbrewerydb.org/breweries?by_state=', state), то перебор параметров parametrize('state', ['ohio', 'new_york', 'new%20mexico']) не работает.
