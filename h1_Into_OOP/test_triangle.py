@@ -1,7 +1,7 @@
-from src.Triangle import Triangle
-from src.Square import Square
-from src.Rectangle import Rectangle
-from src.Circle import Circle
+from h1_Into_OOP.src.Triangle import Triangle
+from h1_Into_OOP.src.Square import Square
+from h1_Into_OOP.src.Rectangle import Rectangle
+from h1_Into_OOP.src.Circle import Circle
 
 
 def test_triangle_create():

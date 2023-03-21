@@ -1,4 +1,4 @@
-from src.Figure import Figure
+from h1_Into_OOP.src.Figure import Figure
 
 
 class Rectangle(Figure):
