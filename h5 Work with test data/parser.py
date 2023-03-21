@@ -1,11 +1,11 @@
 import json
 from csv import DictReader
 
-with open('users.json', 'r') as users:
-    users_json = json.load(users)
-
 new_users_json = dict()
 new_users_list = []
+
+with open('users.json', 'r') as users:
+    users_json = json.load(users)
 
 for user in users_json:
     intermediate_list_for_json = {}
@@ -27,6 +27,7 @@ generator_of_users = user_generate()
 
 new_book = dict()
 new_book_list = []
+
 with open('books.csv', newline='') as library:
     books = DictReader(library)
 
